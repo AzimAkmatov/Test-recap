@@ -1,3 +1,2 @@
 # Test-recap
-This is my very first repo on GitHub
-This is the file for my instructions
+This is the file for my instructions - 12345
